@@ -1,3 +1,6 @@
+#Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
 #API Key for NamSor
 key.txt
 
