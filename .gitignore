@@ -6,6 +6,7 @@ key.txt
 
 # Data
 data/
+graphs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
